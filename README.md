@@ -16,6 +16,8 @@ CodePipeline
 ## Results
 A quickly deployed **product** from repos
 
+## (Quickly)
+
 ## In A Nutshell
 Quickstart for Serverless + SPA
 
